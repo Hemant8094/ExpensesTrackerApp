@@ -1,6 +1,7 @@
 {
   "name": "expense-tracker",
   "version": "0.1.0",
+  "homepage":"https://hemant8094.github.io/ExpensesTrackerApp/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
